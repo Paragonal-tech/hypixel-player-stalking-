@@ -1,0 +1,19 @@
+# IntelliJ IDEA files
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Build files
+target/
+build/
+.gradle/
+
+# OS-specific files
+.DS_Store  # macOS
+Thumbs.db  # Windows
+
+# Logs and temporary files
+*.log
+*.tmp
